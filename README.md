@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Hi 👋, I'm a second-year Computer Engineering student passionate about technology and problem-solving.<br><br>- 🎓 Pursuing a BE degree in Computer Engineering <br>- 💻 Interested in software development and coding<br>- 🌱 Currently learning and improving my programming skills<br>- 🚀 Exploring new technologies and building projects
+<br><br>Hi 👋, I'm a  20 year old Computer Engineering student passionate about technology and problem-solving.<br><br>- 🎓 Pursuing a BE degree in Computer Engineering <br>- 💻 Interested in software development and coding<br>- 🌱 Currently learning and improving my programming skills<br>- 🚀 Exploring new technologies and building projects
 
 
 ## 🌐 Socials:
