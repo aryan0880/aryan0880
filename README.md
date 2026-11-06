@@ -43,7 +43,7 @@
 name: Aryan Sonawane
 role: Full-Stack Web Developer & Undergraduate Student
 education: B.E. Computer Engineering @ Datta Meghe College of Engineering (2024 - 2028 | CGPA: 8.2)
-experience: Frontend Developer Intern @ CoreGen (Jun 2026 – Present)
+experience: Frontend Developer EX Intern @ CoreGen (Jun 2026 – Present)
 portfolio: https://aryansonawane.netlify.app
 interests: [Modern Web Apps, AI/ML Interfacing, Client-Side Tools, Scalable Systems]
 philosophy: "stay hungry, stay foolish"
