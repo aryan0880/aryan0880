@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
   <!-- Dynamic Typing Header Banner -->
   <a href="https://aryansonawane.netlify.app">
@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <strong>Computer Engineering Student @ DMCE | Full-Stack Developer | Frontend Intern @ CoreGen</strong>
+    <strong>Computer Engineering Student @ DMCE | Full-Stack Developer | Frontend EX Intern @ CoreGen</strong>
   </p>
 
   <!-- Prominent Portfolio & Resume CTA Badges -->
